@@ -15,3 +15,8 @@ To open the lua interpreter on command prompt
 ```
 lua
 ```
+# compile step
+
+```
+lua main.lua
+```
