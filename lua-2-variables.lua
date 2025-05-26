@@ -7,5 +7,6 @@ isFemale = false -- boolean
 
 company = nil -- null
 
+print("Person", myName, "Age", age)
 
 
