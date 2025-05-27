@@ -13,3 +13,21 @@ if health <= 0 then
 end
 
 
+hasKey = true
+atDoor = false
+
+print("Can open door ?", hasKey and atDoor)
+
+
+-- If Else 
+
+xp = 3
+if xp >= 500 then
+    print("Level : Master")
+elseif xp >= 300 then
+    print("Level : Warrior")
+elseif xp >= 100 then
+    print("Basic")
+else 
+    print("Unknown!")
+end
