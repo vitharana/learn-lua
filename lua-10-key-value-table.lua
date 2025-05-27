@@ -12,3 +12,8 @@ print(dog.type)
 
 print(dog["type"])
 
+
+for key, value in pairs(dog) do
+    print(key, "=", value)
+end
+
