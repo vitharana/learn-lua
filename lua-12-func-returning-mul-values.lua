@@ -16,3 +16,9 @@ end
 print(boost(5))
 
 print(boost("5"))
+
+
+-- to number
+
+value = tonumber("50")
+print("value= "..value)
