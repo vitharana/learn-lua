@@ -12,7 +12,7 @@ end
 
 --printing in order
 
-print("Table in order")
+print("\nTable in order\n")
 for i = 1,3 do
     local key = "item" .. i
     print(key .. " has " ..inventory[key])
